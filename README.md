@@ -14,9 +14,13 @@ Replay Option: Allows the player to replay the game after winning or losing.
 
 ## Getting Started
 
-```python
-def greet(name):
-print("Hello, " + name + "!")
+### Prerequisites
+To run this game, you need to have Python installed on your system. You can download and install Python from the official website.
 
-greet("World")
-```
+#### Installation
+Clone the repository to your local machine using Git.
+
+```git clone https://github.com/your-username/number-guessing-game.git```
+
+
+
