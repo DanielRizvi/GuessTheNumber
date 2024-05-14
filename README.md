@@ -2,7 +2,7 @@
 This is a simple Python game where the player tries to guess a randomly generated number within a certain range.
 
 
-# Introduction
+## Introduction
 Welcome to the Number Guessing Game! This is a simple Python game where the player tries to guess a randomly generated number within a certain range. It's a fun and interactive way to test your guessing skills and have some entertainment.
 
 Features
@@ -13,3 +13,10 @@ Attempts Counter: Keeps track of the number of attempts made by the player.
 Replay Option: Allows the player to replay the game after winning or losing.
 
 ## Getting Started
+
+```python
+def greet(name):
+print("Hello, " + name + "!")
+
+greet("World")
+```
