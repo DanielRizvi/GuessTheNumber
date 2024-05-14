@@ -38,7 +38,7 @@ Contributions are welcome! If you find any bugs, have feature requests, or want 
 Open an issue to report bugs or suggest features.
 Fork the repository and submit a pull request with your changes.
 #### Acknowledgements
-This game was created by #### Daniel Rizvi
+This game was created by **Daniel Rizvi**
 
 
 
